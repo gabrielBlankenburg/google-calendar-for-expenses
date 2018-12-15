@@ -1,0 +1,8 @@
+Calendars = {
+	'INCOME_CALENDARS': [
+		'example@google.com'
+	],
+	'EXPENSE_CALENDARS': [
+		'example@google.com'
+	]
+}
